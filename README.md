@@ -46,8 +46,11 @@ wordcount(filename)
 ## OUTPUT:
 
 
+![Screenshot 2024-01-02 183809](https://github.com/SubhashriRavichandran10/Word-count/assets/145743413/46bf980a-31d4-43fa-a8f5-886e2ad36519)
 
+![Screenshot 2024-01-02 183833](https://github.com/SubhashriRavichandran10/Word-count/assets/145743413/917932f6-0510-4ffb-89fe-19bfa7f54db7)
 
+![Screenshot 2024-01-02 183847](https://github.com/SubhashriRavichandran10/Word-count/assets/145743413/b7e0ba18-9cb5-4d50-9d8e-482467216a3e)
 
 
 ## RESULT:
